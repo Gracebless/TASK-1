@@ -47,7 +47,10 @@ Accept multiple cities and generate comparative plots.
  6. Error Handling & Validation
 Gracefully handle API failures, wrong city names, network errors.
 
-
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/955ed3f1-4188-4fbf-97ad-40502099af93)
+![Image](https://github.com/user-attachments/assets/b9474edf-8c2a-4624-bc37-6a2ec25aaa13)
+![Image](https://github.com/user-attachments/assets/1512df9a-aa90-444e-a90e-1aefa84480e9)
 
 
 
